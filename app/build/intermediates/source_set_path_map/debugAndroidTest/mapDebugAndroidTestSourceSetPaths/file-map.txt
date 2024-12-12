@@ -1,0 +1,6 @@
+com.example.aidemo.test.app-tracing-1.2.0-0 C:\Users\Admin\.gradle\caches\transforms-3\1a2fa84822aa06ddde020aa8234c2c4c\transformed\tracing-1.2.0\res
+com.example.aidemo.test.app-core-1.6.1-1 C:\Users\Admin\.gradle\caches\transforms-3\beb4008f5cb21987a9a4db4e575ff4a6\transformed\core-1.6.1\res
+com.example.aidemo.test.app-androidTest-2 P:\MY_APPS\AiDemo\app\build\generated\res\resValues\androidTest\debug
+com.example.aidemo.test.app-mergeDebugAndroidTestResources-3 P:\MY_APPS\AiDemo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.aidemo.test.app-mergeDebugAndroidTestResources-4 P:\MY_APPS\AiDemo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.aidemo.test.app-debugAndroidTest-5 P:\MY_APPS\AiDemo\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

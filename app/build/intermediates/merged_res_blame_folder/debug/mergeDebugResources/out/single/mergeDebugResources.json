@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.aidemo.app-debug-34:/layout_fragment_face_recognition.xml.flat",
+        "source": "com.example.aidemo.app-main-36:/layout/fragment_face_recognition.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\layout_fragment_face_recognition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\layout\\fragment_face_recognition.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\drawable_electronics.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\drawable\\electronics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\layout_fragment_face_recognization_m_l_fragments.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\layout\\fragment_face_recognization_m_l_fragments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\drawable_user_images.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\drawable\\user_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\layout_item_face_group.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\layout\\item_face_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.example.aidemo.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

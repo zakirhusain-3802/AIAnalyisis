@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_face_recognition"
+        android:icon="@drawable/user_images"
+        android:title="Face Recognition MediaPipe" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/electronics"
+        android:title="Google ML kit" />
+</menu>
