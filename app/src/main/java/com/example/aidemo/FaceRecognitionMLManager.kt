@@ -509,6 +509,7 @@ class FaceRecognitionMLManager private constructor(private val context: Context)
 
     companion object {
         @Volatile
+
         private var instance: FaceRecognitionMLManager? = null
         private const val FETCH_LIMIT = 30
         fun getInstance(context: Context): FaceRecognitionMLManager {
